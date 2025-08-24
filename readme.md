@@ -86,4 +86,4 @@ MIT License. Please see the [license file](LICENSE.md) for more information.
 [codebeat-badge]: https://codebeat.co/badges/f22bd54a-d944-440d-aa4d-3a99f79b41d3
 [codebeat-url]: https://codebeat.co/projects/github-com-binbytes-react-native-firebase-chat-master
 [ico-travis]: https://img.shields.io/travis/binbytes/laravel-model-media-backup/master.svg?style=flat-square
-[link-travis]: https://travis-ci.org/binbytes/react-native-firebase-chat
+[link-travis]: https://travis-ci.org/binbytes/react-native-firebase-chat# react-native-firebase-chat
